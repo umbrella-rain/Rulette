@@ -15,7 +15,7 @@ A functional simulation of a European Roulette game developed to demonstrate cor
 
 ### 💻 Tech Stack:
 - **Language:** Python 3.x
-- **Modules:** `random` (for probability generation), `file I/O` (for data storage)[cite: 3, 4, 5].
+- **Modules:** `random` (for probability generation), `file I/O` (for data storage).
 
 ### 📈 Future Improvements:
 - Transition from file-based storage to a SQL database (PostgreSQL/SQLite).
